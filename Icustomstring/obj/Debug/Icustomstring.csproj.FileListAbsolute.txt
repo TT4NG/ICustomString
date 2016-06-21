@@ -1,0 +1,6 @@
+c:\users\t4ng1\documents\visual studio 2015\Projects\Icustomstring\Icustomstring\bin\Debug\Icustomstring.exe.config
+c:\users\t4ng1\documents\visual studio 2015\Projects\Icustomstring\Icustomstring\obj\Debug\Icustomstring.csprojResolveAssemblyReference.cache
+c:\users\t4ng1\documents\visual studio 2015\Projects\Icustomstring\Icustomstring\bin\Debug\Icustomstring.exe
+c:\users\t4ng1\documents\visual studio 2015\Projects\Icustomstring\Icustomstring\bin\Debug\Icustomstring.pdb
+c:\users\t4ng1\documents\visual studio 2015\Projects\Icustomstring\Icustomstring\obj\Debug\Icustomstring.exe
+c:\users\t4ng1\documents\visual studio 2015\Projects\Icustomstring\Icustomstring\obj\Debug\Icustomstring.pdb
