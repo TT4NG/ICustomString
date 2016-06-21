@@ -1,0 +1,2 @@
+# ICustomString
+custom string
